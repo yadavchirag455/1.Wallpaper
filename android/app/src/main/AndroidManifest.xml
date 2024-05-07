@@ -2,7 +2,7 @@
     <!-- Required to fetch data from the internet. -->
     <uses-permission android:name="android.permission.INTERNET" />
     <application
-        android:label="wallpaper_youtube_akshit_madan"
+        android:label="Wallpaper App"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
